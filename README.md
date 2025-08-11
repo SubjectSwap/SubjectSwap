@@ -86,4 +86,4 @@ Instruction given in both frontend and backend repositories seperately.
 ---
 
 ## Demo Video
-[Link](https://drive.google.com/file/d/1h0zZv6J4n0q1h1Z1YJZ8QZ7YJZ8QZ7YJ/view?usp=share_link)
+[Link](https://drive.google.com/file/d/1i4RM5vzUIxIxgOJiz89DgXbaXdIvDW9Z/view?usp=sharing)
